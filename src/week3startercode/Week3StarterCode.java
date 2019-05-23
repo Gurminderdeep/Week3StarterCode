@@ -21,6 +21,7 @@ public class Week3StarterCode {
         
         System.out.println(s1.getFirstName() + " "+s1.getID());
         System.out.println("Week 3 is going on.");
+         System.out.println("Its been good this far.");
         System.out.println("See you again!");
     }
     
