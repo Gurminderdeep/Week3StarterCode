@@ -20,6 +20,7 @@ public class Week3StarterCode {
         s1.setID(4);
         
         System.out.println(s1.getFirstName() + " "+s1.getID());
+        System.out.println("Week 3 is going on.");
         System.out.println("See you again!");
     }
     
